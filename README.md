@@ -1,5 +1,9 @@
 - 👋 Hey there, I’m @yoonustehrani
-- 💞️ in love with web developement
+- ♥️ Interested in Web development
+- 🌐 I develop modern websites for companies
+- 💻 Been a php developer my whole life
+- 😎 Currently Learning Rust lang
+- 🇮🇷 Living in Iran
 <!-- - 🌱 I’m currently learning ...
 -  I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
